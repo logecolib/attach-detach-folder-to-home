@@ -31,5 +31,9 @@ But I want those files at:
 ...
 ```
 
-Then I run the script to backup my current files, copy them into Personal folder, and replace the home files with symlinks pointing to Personal folder. It can be detached.
+Then I run the script for it to:
+  - backup my current home files for each folder and file present on cloud Personal folder
+  - copy current home files into cloud Personal folder
+  - replace home files and folders with symlinks pointing to cloud Personal folder
 
+Automate everything!
